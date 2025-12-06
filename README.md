@@ -1,0 +1,54 @@
+# YOASOBI – Tracing A Dream
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.03] Fillin' all the skies of night it soon creates a flower
+[00:05.11] City voices are all wrapped in by the shining light and sounds remove
+[00:10.97] World of all silence, all that was left is two alone, then echoing out, the words are
+[00:17.83] "I'm in love with you"
+[00:35.14] You met up with me inside a dream, our future was shown
+[00:39.73] Night of summer, you and me form silhouettes, mine right there next to you
+[00:45.60] Final of all fireworks to rise into the sky, when it fades away
+[00:52.27] That'll be the sign for this
+[00:55.16] It's you, an ordinary morning
+[00:58.09] It's an ordinary lookin' image you got on
+[01:00.95] All reason for me breakin' every eye contact with you was, ah
+[01:06.38] For I have been consumed by words let out in what you've shown, even now
+[01:13.07] Still it resumes to keep ringin' on inside
+[01:16.96] Ah, onto where night will end, awaiting past dreamin'
+[01:24.31] To want it to arrive and find it
+[01:28.21] Foretold in a dream, and waiting until now, but is it true?
+[01:33.50] Worries deep in my head seem loud but I'll keep on
+[01:38.96] Ah, and out through our present, and soon know what begins
+[01:45.08] You and me will be on our own and
+[01:49.65] More, almost
+[01:51.08] Don't alter what I am waiting for
+[01:53.09] Almost
+[01:53.87] So please go on to talk about it
+[01:55.62] I'll be waiting right there to hear you
+[02:15.12] No one knows of this night
+[02:17.55] Nobody's here but me and you
+[02:20.80] The scenery I've waited for now overlapping with our view
+[02:26.27] The present and beyond, upon the summer sky
+[02:28.87] Attachin' all within the firework I see
+[02:31.52] We're in the focal place where I had known to trace my dream with you
+[02:36.99] We're looking up into the skies above lit up and shining bright
+[02:44.11] Shed light upon your profile and ah
+[02:48.33] So, as told, led us to the scene known and made it
+[02:51.15] So, it's two of our futures, to go here right now
+[02:54.13] And overlapping real soon
+[03:01.78] Ah, you're in our night with me, just me and you, that's it
+[03:07.71] Foretold and now we've come, arrivin'
+[03:12.09] Fine, go through, your mind will be told fine, go through, be understood
+[03:17.43] And the scenes beyond what's dreamt to be reachin'
+[03:23.12] Ah, and out through our present, and soon know what begins
+[03:29.27] And our days are intact for we've met
+[03:33.61] More, almost
+[03:35.03] Don't alter what I am waiting for
+[03:36.70] Almost
+[03:37.69] Look up, final of the fireworks is now
+[03:40.01] Here wrapping over two
+[03:42.02] World of no sound in the silence, you speak
+[03:46.03] "I'm in love with you"
+```
