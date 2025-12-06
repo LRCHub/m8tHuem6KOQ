@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Tracing A Dream",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-06T10:36:22.415518Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tracing A Dream",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_Tracing_A_Dream_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tracing A Dream (English Version)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_Tracing_A_Dream_(English_Version)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "tracing a dream",
+      "artist": "yoasobi",
+      "has_synced": true,
+      "path": "select/03_tracing_a_dream_yoasobi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あの夢をなぞって (Tracing a Dream)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/04_あの夢をなぞって_(Tracing_a_Dream)_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tracing A Dream",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_Tracing_A_Dream_YOASOBI.txt"
+    }
+  ]
+}
